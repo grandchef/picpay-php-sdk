@@ -4,13 +4,13 @@
       "Picpay": "src"
     }
   },
-  "name": "muvasco/picpay-php-sdk",
+  "name": "grandchef/picpay-php-sdk",
   "description": "SDK PHP para integração com a API E-Commerce PicPay",
   "license": "MIT",
   "type": "library",
   "require": {
     "php": ">=5.6",
-    "guzzlehttp/guzzle": "~6.0"
+    "guzzlehttp/guzzle": "^6.0 || ^7.0"
   },
-  "homepage": "https://github.com/muvasco/picpay-php-sdk"
+  "homepage": "https://github.com/grandchef/picpay-php-sdk"
 }
